@@ -1,3 +1,5 @@
+**Note:** This project is for **educational purposes only**. See the [DISCLAIMER.md](DISCLAIMER.md) for important details.
+
 First run 
 train.py
 then 
